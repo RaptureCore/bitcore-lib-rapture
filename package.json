@@ -1,8 +1,8 @@
 {
-  "name": "@raptureevo/rapturecore-lib",
+  "name": "@RaptureCore/rapturecore-lib",
   "version": "0.15.3",
   "description": "A pure and powerful JavaScript Rapture library.",
-  "author": "BitPay <dev@bitpay.com>",
+  "author": "RaptureDev <rapturecoredev@gmail.com>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -87,12 +87,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/raptureevo/rapturecore-lib.git"
+    "url": "https://github.com/RaptureCore/rapturecore-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/raptureevo/rapturecore-lib/issues"
+    "url": "https://github.com/RaptureCore/rapturecore-lib/issues"
   },
-  "homepage": "https://github.com/raptureevo/rapturecore-lib",
+  "homepage": "https://github.com/RaptureCore/rapturecore-lib",
   "browser": {
     "request": "browser-request"
   },
@@ -110,7 +110,7 @@
     "x11-hash-js": "^1.0.0"
   },
   "devDependencies": {
-    "bitcore-build-rapture": "raptureevo/bitcore-build-rapture",
+    "bitcore-build-rapture": "RaptureCore/bitcore-build-rapture",
     "browserify": "latest",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",

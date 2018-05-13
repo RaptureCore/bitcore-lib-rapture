@@ -2,7 +2,7 @@
   "name": "bitcore-lib-rapture",
   "main": "./bitcore-lib-rapture.min.js",
   "version": "0.15.3",
-  "homepage": "https://github.com/raptureevo/bitcore-lib-rapture",
+  "homepage": "https://github.com/RaptureCore/bitcore-lib-rapture",
   "authors": [
     "Rapture", "BitPay, Inc."
   ],
