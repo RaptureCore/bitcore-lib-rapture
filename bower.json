@@ -1,17 +1,17 @@
 {
-  "name": "bitcore-lib-dash",
-  "main": "./bitcore-lib-dash.min.js",
+  "name": "bitcore-lib-rapture",
+  "main": "./bitcore-lib-rapture.min.js",
   "version": "0.15.3",
-  "homepage": "https://github.com/dashevo/bitcore-lib-dash",
+  "homepage": "https://github.com/raptureevo/bitcore-lib-rapture",
   "authors": [
-    "Dash", "BitPay, Inc."
+    "Rapture", "BitPay, Inc."
   ],
-  "description": "A pure, powerful core for your dash project.",
+  "description": "A pure, powerful core for your rapture project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "dash",
+    "rapture",
     "bitcoin",
     "bitcore",
     "btc",

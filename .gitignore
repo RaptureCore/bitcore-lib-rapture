@@ -24,7 +24,7 @@ bitcore.min.js
 bitcore.js.sig
 bitcore.min.js.sig
 tests.js
-bitcore-lib-dash.js
-bitcore-lib-dash.min.js
+bitcore-lib-rapture.js
+bitcore-lib-rapture.min.js
 
 launch.json
