@@ -2,6 +2,7 @@
   "name": "bitcore-lib-rapture",
   "main": "./bitcore-lib-rapture.min.js",
   "version": "0.15.3",
+
   "homepage": "https://github.com/RaptureCore/rapturecore-lib",
   "authors": [
     "RaptureCore Dev", "tom_ua", "BitPay, Inc."
@@ -12,6 +13,7 @@
   ],
   "keywords": [
     "rapture",
+    "bitcoin",
     "bitcore",
     "rapturecore"
   ],

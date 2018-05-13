@@ -2,8 +2,10 @@
 .idea
 coverage
 node_modules
+app.js
 browser/tests.js
 docs/api
+
 
 CONTRIBUTING.html
 LICENSE.html
@@ -22,5 +24,7 @@ bitcore.min.js
 bitcore.js.sig
 bitcore.min.js.sig
 tests.js
+bitcore-lib-rapture.js
+bitcore-lib-rapture.min.js
 
 launch.json
