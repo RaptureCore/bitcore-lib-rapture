@@ -2,11 +2,12 @@
   "name": "bitcore-lib-rapture",
   "main": "./bitcore-lib-rapture.min.js",
   "version": "0.15.3",
-  "homepage": "https://github.com/RaptureCore/bitcore-lib-rapture",
+
+  "homepage": "https://github.com/RaptureCore/rapturecore-lib",
   "authors": [
-    "Rapture", "BitPay, Inc."
+    "RaptureCore Dev", "tom_ua", "BitPay, Inc."
   ],
-  "description": "A pure, powerful core for your rapture project.",
+  "description": "A pure, powerful core for our RAPTURE project.",
   "moduleType": [
     "globals"
   ],
@@ -14,8 +15,7 @@
     "rapture",
     "bitcoin",
     "bitcore",
-    "btc",
-    "satoshi"
+    "rapturecore"
   ],
   "license": "MIT",
   "ignore": [

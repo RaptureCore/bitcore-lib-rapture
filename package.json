@@ -12,8 +12,7 @@
   },
   "contributors": [
     {
-      "name": "Daniel Cousens",
-      "email": "bitcoin@dcousens.com"
+      "name": "RaptureCore Dev"
     },
     {
       "name": "Esteban Ordano",
@@ -60,21 +59,17 @@
       "email": "UdjinM6@gmail.com"
     },
     {
-      "name": "Jon Kindel",
-      "email": "jon@rapture.org"
-    },
-    {
       "name": "Alex Werner",
       "email": "alex@werner.fr"
+      "name": "tom_ua"
+
     }
   ],
   "keywords": [
     "rapture",
     "transaction",
     "address",
-    "p2p",
     "ecies",
-    "cryptocurrency",
     "blockchain",
     "payment",
     "bip21",
@@ -83,6 +78,8 @@
     "bip69",
     "bip70",
     "multisig",
+    "charity",
+    "charitynode",
     "rapturecore"
   ],
   "repository": {
