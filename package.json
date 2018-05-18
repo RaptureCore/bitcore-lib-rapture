@@ -60,7 +60,7 @@
     },
     {
       "name": "Alex Werner",
-      "email": "alex@werner.fr"
+      "email": "alex@werner.fr",
       "name": "tom_ua"
 
     }
@@ -101,7 +101,6 @@
     "express": "^4.16.3",
     "inherits": "=2.0.1",
     "lodash": "=4.17.1",
-    "multi-hashing-plus": "=1.0.0",
     "request": "^2.85.0",
     "sha512": "=0.0.1",
     "x11-hash-js": "^1.0.0"
