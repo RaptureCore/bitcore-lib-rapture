@@ -85,12 +85,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/RaptureCore/rapturecore-lib.git"
+    "url": "https://github.com/RaptureCore/bitcore-lib-rapture.git"
   },
   "bugs": {
-    "url": "https://github.com/RaptureCore/rapturecore-lib/issues"
+    "url": "https://github.com/RaptureCore/bitcore-lib-rapture/issues"
   },
-  "homepage": "https://github.com/RaptureCore/rapturecore-lib",
+  "homepage": "https://github.com/RaptureCore/bitcore-lib-rapture",
   "browser": {
     "request": "browser-request"
   },
