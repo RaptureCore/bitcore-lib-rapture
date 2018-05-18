@@ -95,6 +95,7 @@
     "request": "browser-request"
   },
   "dependencies": {
+    "bip39": "^2.5.0",
     "bn.js": "=2.0.4",
     "bs58": "=2.0.0",
     "buffer-compare": "=1.0.0",
