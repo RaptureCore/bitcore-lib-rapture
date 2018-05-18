@@ -1,5 +1,5 @@
 {
-  "name": "rapturecore-lib",
+  "name": "bitcore-lib-rapture",
   "version": "0.15.3",
   "description": "A pure and powerful JavaScript Rapture library.",
   "author": "RaptureDev <rapturecoredev@gmail.com>",
@@ -60,9 +60,10 @@
     },
     {
       "name": "Alex Werner",
-      "email": "alex@werner.fr",
+      "email": "alex@werner.fr"
+    },
+    {
       "name": "tom_ua"
-
     }
   ],
   "keywords": [
