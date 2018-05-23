@@ -1,6 +1,6 @@
 {
   "name": "bitcore-lib-rapture",
-  "version": "0.16.1",
+  "version": "0.16.2",
   "description": "A pure and powerful JavaScript Rapture library.",
   "author": "RaptureDev <rapturecoredev@gmail.com>",
   "main": "index.js",
