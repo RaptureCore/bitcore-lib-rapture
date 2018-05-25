@@ -1,4 +1,4 @@
-# Bitcore v0.15
+# Bitcore v0.15.0
 
 ## Principles
 
